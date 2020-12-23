@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1067043802353",
+    "project_id": "auth-trying",
+    "storage_bucket": "auth-trying.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067043802353:android:1361271eb8affd9ea4ad50",
+        "android_client_info": {
+          "package_name": "com.batuhan.firebase_auth_trying"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067043802353-chhadpsj9hp0jrqtkkocvpi2ut7hjqi2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.batuhan.firebase_auth_trying",
+            "certificate_hash": "864f4f42a2439ee4feff2d3dded33107f0629cf5"
+          }
+        },
+        {
+          "client_id": "1067043802353-h3d8q5f27gv1vsbklep6lk31gsamb7ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBZbqLIrs7Ns6sYinR6Ub2Q8KaB1u0nEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067043802353-h3d8q5f27gv1vsbklep6lk31gsamb7ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
